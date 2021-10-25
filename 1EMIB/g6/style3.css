@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+  }
+  
+  .lg {
+    padding-top: 5px;
+    padding-bottom: 2px;
+    display: flex;
+    justify-content: center;
+    background-color: #D8D8D8;
+  }
+  
+  .imgPrincipal {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .txt {
+    margin-top: 20px;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+  }
+  
+  .subt {
+    padding-top: 12px;
+    font-size: 17px;
+    font-weight: 500;
+  }
+  
+  .dt {
+    font-style: italic;
+    color: grey;
+    margin-bottom: 40px;
+    font-size: 17px;
+  }
+  
+  .txt {
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 30px;
+    font-size: 20px;
+  }
+  
+  .subm {
+    max-width: 65%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+
+  .news {
+    margin-bottom: 20px;
+  }
+
+  .txt2 {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .imgnews {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 200px;
+  }

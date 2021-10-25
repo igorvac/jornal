@@ -1,0 +1,170 @@
+.TITULO1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(108, 219, 219);
+    height: 100px;
+}
+
+body{
+    margin: 0;
+    background-color: lightgreen;
+}
+
+.cincop{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    justify-content: space-between;
+    font-size: 15px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.tudo{
+    display: flex;
+    flex-direction: column;
+}
+
+.cincofoto{
+    display: flex;
+    flex-direction: row;
+}
+
+.cincofoto h1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    justify-content: space-around;
+    font-size: 20px;
+    justify-content: flex-start;
+}
+
+.cincofoto p{
+    width: 70%;
+    margin-left: 20px;
+}
+
+.cincofoto h1{
+    margin-left: 50px;
+}
+
+.cincofoto p{
+    margin-left: 50px;
+}
+
+.umbaixo{
+    display: flex;
+    flex-direction: row;
+}
+
+.dois img{
+    display: flex;
+    margin-left: 10px;
+}
+
+.doisbaixo img{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 100px;
+}
+
+.doisbaixoTXT h1{
+    display: flex;
+    margin-right: 200px;
+}
+
+
+.umbaixo img{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 175px;
+}
+
+.umbaixo umbaixoTXT{
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+}
+
+.doisbaixoTXT h1{
+    display: flex;
+    margin-right: 10px;
+}
+
+.doisbaixo img{
+    display: flex;
+    margin-right: 160px;
+    height: 200px;
+    width: 550px;
+}
+
+.doisbaixo{
+    display: flex;
+    flex-direction: row;
+    margin-right: 200px;
+}
+
+
+.doisbaixo doisbaixoTXT{
+    display: flex;
+    flex-direction: row;
+    margin-right: 200px;
+}
+
+.baixo{
+display: flex;
+flex-direction: row;
+}
+
+.grande{
+    margin-left: 50px;
+}
+
+.grande img{
+    display: flex;
+    width: 750px;
+}
+
+.dois{
+    display: flex;
+    flex-direction: column;
+}
+
+.imagem{
+    display: flex;
+    height: 90px;
+    width: 140px;
+    margin-left: 50px;
+}
+
+.foto2{
+    display: flex;
+    margin-right: 30px;
+    flex-direction: column;
+}
+
+.foto3{
+    display: flex;
+    margin-left: 40px;
+    flex-direction: column;
+}
+
+.foto4{
+    display: flex;
+    margin-left: 45px;
+    flex-direction: column;
+}
+
+.foto5{
+    display: flex;
+    margin-right: 70px;
+    flex-direction: column;
+}
+
+.cincop h1{
+    display: flex;
+    margin-left: 45px;
+}

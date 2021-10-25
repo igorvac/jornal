@@ -1,0 +1,44 @@
+header{
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+justify-content: left;
+
+
+}
+
+p{
+
+    max-width: none;
+
+}
+
+img{
+    max-width: 99%;
+
+
+
+}
+
+
+p img{
+    display: flex;
+    justify-content: right;
+
+    flex-wrap: wrap;
+}
+
+
+@media (max-width:722px){
+   
+}
+
+.linha p,.mw {
+    max-width: 60% 
+
+}

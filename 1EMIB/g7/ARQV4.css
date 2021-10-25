@@ -1,0 +1,54 @@
+.CANECA{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(108, 219, 219);
+    height: 100px;
+    width: 100%;
+}
+
+body{
+    margin: 0;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.CADEIRA{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 980px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+}
+
+.VASSOURA{
+    display: flex;
+    flex-direction: row;
+}
+
+.BULACHA .LAJE{
+    display: flex;
+    flex-direction: row;
+}
+
+.TECLA{
+    display: flex;
+    flex-direction: row-reverse
+}
+
+.CARREGADOR{
+    display: flex;
+    border: 3px solid #fff
+}
+
+.TESOURA{
+    display: flex;
+    border: 3px solid #fff
+}
+
+.VASSOURA{
+    display: flex;
+    font-size: large;
+}

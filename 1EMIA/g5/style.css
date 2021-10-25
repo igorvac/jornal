@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+:root{
+    --corPrincipal:#06c59c;
+
+}
+
+.linha{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+
+}
+
+.linha2{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+
+}
+
+.coluna{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.barra{
+    width: 100%;
+    height: 50px;
+    background-color: var(--corPrincipal);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.imagemP{
+    width: 100%;
+    height: 100px;
+    background-color: var(--corPrincipal);
+    margin-right: 40px;
+
+}
+
+.imagemG{
+    width: 100%;
+    height: 300px;
+    background-color:var(--corPrincipal);
+    margin-right: 40px;
+}
+
+.imagemM{
+    width: 100%;
+    height: 120px;
+    background-color: var(--corPrincipal);
+    margin-right: 40px;
+
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color:#000000
+}
+
+.fundo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 70%;
+}
+
+h3{
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-family:  'Noto Serif', serif;
+
+}
+
+h4{
+font-family:  'Noto Serif', serif;
+}
+
+.fonteP{
+    font-size: 14px;
+}
+
+.colunaG{
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+

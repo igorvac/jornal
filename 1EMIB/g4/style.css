@@ -1,0 +1,99 @@
+.coluna{
+    display: flex;
+    flex-direction: column;
+}
+
+.linha{
+    display: flex;
+    flex-direction: row;
+}
+
+.linharev{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.color{
+    background-color: aliceblue;
+    margin: 1px;
+}
+
+body{
+    background-color: rgba(240, 224, 224, 0.863);
+    margin: auto;
+}
+
+.teste3 {
+    margin-top: 1.875rem;
+    margin-left: 0.938rem;
+    margin-right: 0.938rem;
+    margin-bottom: 0.938rem;
+}
+
+.teste4 {
+    margin-top: 0.938rem;
+    margin-left: 0.938rem;
+    margin-right: 0.938rem;
+    margin-bottom: 1.875rem;
+    font-size: 0.75rem;
+}
+
+.teste5 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 0px;
+}
+
+.teste6 {
+    margin-right: 0px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.teste7 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.teste8 {
+    margin: 10px;
+}
+
+.margemD {
+    margin-right: 3rem;
+}
+
+.margemDeE {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+
+.margemDeE2 {
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+.central{
+    display: flex;
+    justify-content: center;
+}
+.esq{
+    justify-content: left;
+    
+}
+.zero{
+    margin-top: 0;
+}
+.top{
+    margin-top: 7px;
+    margin-bottom: 0px;
+}
+.granze{
+    font-size: 18px;
+}

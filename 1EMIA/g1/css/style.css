@@ -1,0 +1,223 @@
+html{
+    background-color: #bbcab8;
+    font-family: sans-serif;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #fff;
+}
+
+.header-bg{
+    background-color: #50684a;
+    width: 100%;
+    height: 100px;
+}
+
+.header{
+    display: flex;
+    max-width: 2000px;
+    justify-content:flex-end;
+    margin: 0 auto;
+
+}
+
+.header-logo{
+    width: 120px;
+    margin-top: 15px;
+    margin-right: 150px;        
+    background-color: #50684a;
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 10%;
+}
+
+/* ---------------------------------------------- NAV Lorem  ------------------------------------------- */
+
+.nav{
+    margin-top: 40px;
+}
+
+.nav ul{
+    display: flex;
+    justify-content: space-between;
+    max-width: 75%;
+    margin: 0 auto;
+}
+
+.nav ul li{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* ---------------------------------------------- Conteudo 1 ------------------------------------------- */
+
+.container{
+    display: flex;
+    max-width: 75%;
+    margin: 40px auto;
+}
+
+.primario{
+    display: flex;
+    margin-left: -100px;
+}   
+
+.CSGOxVALORANT{
+    margin-right: 40px;
+}
+
+.CSGOxVALORANT h1{
+    margin: 15px 0 15px 0;
+}
+
+.CSGOxVALORANT p{
+    max-width: 500px;
+}
+
+.burj-khalifa p{
+    max-width: 500px;
+}
+
+.burj-khalifa h1{
+    margin: 15px 0 15px 0;
+}
+
+/* -------------------------------------------- Conteudo 2 --------------------------------------------- */
+
+ .secundario{
+    display: flex;
+    flex-direction: column;
+ }
+
+
+ .secundario div{
+     display: flex;
+     flex: 1;
+     margin-left: 70px;
+     margin-bottom: 50px;
+ }
+ 
+ .secundario div p {
+     max-width: 140px;    
+ }
+
+ .secundario div div{
+     display: block;
+ }
+
+ .secundario2 p{
+    margin-top: 5px;
+    font-weight:unset
+ }
+
+ /* -------------------------------------------------- TELA ARTIGO --------------------------------------*/
+
+    .header-artigo{
+        background-color:#50684a;
+        width: 100%;
+        height: 100px;
+        margin: 0 auto;
+    }
+ 
+    .header-artigo img{
+        width: 150px;
+        margin-top: 15px;
+        margin-left: 50%;
+        background-color: #50684a;
+        margin-top: 30px;
+        padding: 10px;
+        border-radius: 10%;
+   }
+ 
+    .principal-artigo{
+        display: flex;
+        flex-direction: column;
+        margin-top: 4rem;
+        margin-left: 13rem;
+        margin-right: 13rem;
+    }
+ 
+    .principal-artigo h1{
+        font-weight: bold;
+        font-size: 30px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+ 
+    .principal-artigo h2{
+  
+        margin-top: -5px;
+        margin-bottom: 20px;
+    }
+
+    .principal-artigo p{
+        margin-bottom: 10px;
+        font-size: 1.2rem;
+    }
+ 
+    .texto2-artigo{
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .texto2-artigo p{
+        margin-right: 10px;
+        font-size: 1.2rem;
+    }
+
+/* ----------------------------------------------------- Alterações Artigos ------------------------------------------------------------------ */
+
+#img1-artigo-csgo{
+    background-color: black;
+    padding: 5px;
+}
+
+#img1-artigo-burj{
+    background-color: black;
+    padding: 5px;
+}
+
+#img1-artigo-dark{
+    background-color: black;
+    padding: 5px;
+}
+
+#img1-artigo-gtp{
+    background-color: black;
+    padding: 5px;
+}
+
+/* -------- */
+
+#img2-artigo-csgo{
+    margin-top: -40px;
+    margin-bottom: 10px;
+}
+
+#img2-artigo-burj{
+    margin-top: -40px;
+    margin-bottom: 10px;
+}
+
+#img2-artigo-dark{
+    margin-top: -40px;
+    margin-bottom: 10px;
+}
+
+#img2-artigo-gtp{
+    margin-top: -40px;
+    margin-bottom: 10px;
+}
+
+

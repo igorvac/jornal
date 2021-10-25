@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300&display=swap'); 
+body{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+.barra{
+    width: auto;
+    height: 50px;
+    background-color: #828385;
+}
+ 
+.barra img{
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 550px;
+}
+ 
+.div_pai img{
+    width: 900px;
+    height: 300px;
+    margin-left: 180px;
+    margin-top: 80px;
+}
+ 
+.div_filho h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    margin-left: 180px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+ 
+.div_filho h2{
+    font-family: 'roboto', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    margin-left: 180px;
+    margin-top: 30px;
+}
+ 
+.div_filho h3{
+    margin-left: 180px;
+    margin-top: 10px;
+}
+.div_filho p{
+    font-family: 'Raleway', sans-serif;
+    margin-left: 180px;
+    margin-top: 30px;
+    margin-right: 180px;
+}
+.div_filho img{
+    width: 250px;
+    height: 250px;
+}
+ 
+.div_neto p{
+    font-family: 'Raleway', sans-serif;
+    margin-left: 180px;
+    margin-top: 30px;
+    margin-right: 500px;
+}
+ 
+.div_neto img{
+    width: 250px;
+    height: 150px;
+    margin-left: 900px;
+    margin-top: -180px;
+}

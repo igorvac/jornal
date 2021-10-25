@@ -1,0 +1,54 @@
+.CANECA{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(108, 219, 219);
+    height: 100px;
+    width: 100%;
+}
+
+body{
+    margin: 0;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.BISCOITO{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 350px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 230px;
+}
+
+.BULACHA{
+    display: flex;
+    flex-direction: row;
+}
+
+.BULACHA .LAJE{
+    display: flex;
+    flex-direction: row;
+}
+
+.PET{
+    display: flex;
+    flex-direction: row-reverse
+}
+
+.BOB{
+    display: flex;
+    border: 3px solid #fff
+}
+
+.LAJE{
+    display: flex;
+    border: 3px solid #fff
+}
+
+.BULACHA{
+    display: flex;
+    font-size: large;
+}
